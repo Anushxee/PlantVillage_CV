@@ -1,0 +1,24 @@
+torch
+torchvision
+torchaudio
+
+fastapi
+uvicorn
+
+#Data 
+pandas
+numpy
+scikit-learn
+
+#Image processing
+Pillow
+opencv-python
+
+#exptn
+jupyter
+matplotlib
+seaborn
+
+# Optional (for progress bars, YAML configs etc.)
+tqdm
+pyyaml

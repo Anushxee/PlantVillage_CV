@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+venv/
+.env/
+
+*.pth
+*.h5
+
+data/
+*.zip
+
+.vscode/
